@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RefatPortfolio</string>
+    <string name="title_activity_detail">Detail</string>
+            <string name="conttent">
+        I am Refat Akbar.I have completed my graduation in Computer Science and Engineering
+        from United International University(UIU)on October, 2015 bearing CGPA
+        3.59 on a scale of 4.I passed SSC 2010 from Mohammadpur girls High School
+        and HSC from Mohammadpur Preparatory Girls College with GPA 5.I like to reading book,writing,
+        Singing and painting.I have been a competent student with having programming language skill
+        like JAVA,  HTML5, CSS3, JAVASCRIPT, ANDROID,C etc. I have also done a course on android and graphics
+        design. I have experience to go thorough Database like MySQL  as
+        well as technical tools like Eclips,Android Studio,Netbeans,Visual Studio etc. during my academic
+        curriculum.I have attached my work experience in my portfolio.
+
+
+
+
+    </string>
+</resources>
